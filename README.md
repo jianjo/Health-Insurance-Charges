@@ -4,7 +4,7 @@ This project explores the factors influencing individual treatment costs and bui
 
 **※** It was conducted collaboratively with my partner, Kelly Lee.  
 
-### Project Objectives
+## Project Objectives
 
 - **Data Exploration:** Analyze a real-world dataset to identify key variables influencing healthcare costs.
 - **Model Development:** Utilize regression techniques to predict insurance charges and determine the best fit of various models.
@@ -34,7 +34,7 @@ This project explores the factors influencing individual treatment costs and bui
 
 **➡️ Model Sensitivity**: While the simple linear model performed marginally better in terms of MSE, the Ridge model’s robustness to outliers and multicollinearity is advantageous for datasets with high variance. 
 
-⇒ Depending on the analysis needs (simplicity vs. robustness), practitioners can choose between a straightforward linear regression and a regularized approach, Ridge regression. 
+Depending on the analysis needs (simplicity vs. robustness), practitioners can choose between a straightforward linear regression and a regularized approach, Ridge regression. 
 
 ## Conclusion
 
